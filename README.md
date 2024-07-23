@@ -1,6 +1,7 @@
 # python
 ## python study
 ### do_it_jump_to_python : DO IT! 점프 투 파이썬
+### pygame 나도 코딩의 게임 만들기
 ### BaekJoon_Online_Juge  
 * 1step(입출력과 사칙연산)        
   1. Hello World
@@ -48,4 +49,3 @@
   8. 나머지
   9. 바구니 뒤집
   10. 평균 
-### pygame_basic : 나도 코딩의 게임 만들기
